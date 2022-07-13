@@ -2,3 +2,5 @@ Added line 1 in file2
 Added line 2 in file2
 Added line 3 in file2
 Added line 4 in file2
+Added line 5 in file2
+Added line 6 in file2
